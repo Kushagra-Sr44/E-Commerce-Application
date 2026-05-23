@@ -33,10 +33,3 @@ mvn spring-boot:run
 ### Configuration
 Update `application.properties` with your MongoDB connection details.
 
-## Testing
-```bash
-mvn test
-```
-
-## License
-MIT
